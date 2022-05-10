@@ -7,3 +7,8 @@ En este taller veremos una breve introducción al mundo del Big Data y Spark a t
 
 También veremos cómo trabajar con Databricks, creación de tablas, clústeres... Para ello, también será necesario crearse una cuenta en el siguiente enlace: https://community.cloud.databricks.com/login.html
 
+Fuentes:
+
+https://github.com/leosanchezsoler/pyspark
+
+https://www.youtube.com/watch?v=_C8kWso4ne4&list=PLLRqobernyIRjTleiXupYZUNlwgYDtDZh&index=4&t=1s&ab_channel=freeCodeCamp.org
