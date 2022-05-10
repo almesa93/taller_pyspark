@@ -23,6 +23,12 @@ https://www.youtube.com/watch?v=BMO90DI82Dc&t=39s&ab_channel=Databricks
 
 
 
+Archivos Parquet:
+
+https://databricks.com/glossary/what-is-parquet
+
+
+
 Sitios de utilidad:
 
 https://aprenderbigdata.com/
