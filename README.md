@@ -1,4 +1,8 @@
 # taller_pyspark
+
+<img src="https://i.imgur.com/3CGuvki.jpg" alt="drawing" width="600"/>
+
+
 ### Introducción a PySpark
 
 #### Taller de introducción a PySpark para la clase de Data Science de The Bridge | Digital Talent Accelerator
